@@ -5,5 +5,5 @@ class User < ApplicationRecord
          :rememberable, :validatable
 
   has_many :bookmarks
-
+  belongs_to :user
 end
