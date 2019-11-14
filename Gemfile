@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'simple_form', '~> 3.5.0'
+gem 'simple_form', '~> 5.0.0'
 gem 'devise', '~>4.3.0'
 gem 'zurb-foundation', '~> 4.3.2'
 # Use Capistrano for deployment
